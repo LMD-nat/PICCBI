@@ -685,19 +685,3 @@ for(p in c('B0', 'Bf', 'BF', 'Bc', 'lF', 'lc')){
        xlab = 'EB', 
        ylab = p)
 }
-
-# * Drift Diffusion Model ####
-library(rtdists)
-source('Models/DDM/fitddm.R')
-ddm.fit <- fitddm(modeldata, quickfit = T, verbose = T)
-
-ddm.fit$subject <- ddm.fit$id
-ddm.raneff <- full_join(ddm.fit, raneffs)
-
-layout(matrix(1:10, 2, 5, byrow=T))
-for(p in c('a', 't0', 'sv', 'sz', 'z', paste0('v_', 1:5))){
-  plot(x=ddm.raneff$trial0, 
-       y=ddm.raneff[[p]], 
-       xlab = 'EB', 
-       ylab = p)
-}
