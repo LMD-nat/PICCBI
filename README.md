@@ -5,7 +5,7 @@ Devine, S., Germain, N., Ehrlich, S. &amp; Eppinger, B. (under review). Changes 
 
 1. The task code
 2. The raw data and the analysis file(s)
-3. Materials for our presentation at the Canadian Society for Brain, Behaviour and Cognitive Science (CSBBCS) annual meeting, June 2021. 
+3. Materials for our [presentation](https://github.com/LMD-nat/PICCBI/blob/main/csbbsc_2021/piccbi%20poster_csbbcs.pdf) at the Canadian Society for Brain, Behaviour and Cognitive Science (CSBBCS) annual meeting, June 2021. 
 
 Looking for the [preregistration](https://osf.io/e28nd)?
 
