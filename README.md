@@ -9,6 +9,8 @@ Devine, S., Germain, N., Ehrlich, S. &amp; Eppinger, B. (under review). Changes 
 
 Looking for the [preregistration](https://osf.io/e28nd)?
 
+Want to [run the task](https://run.pavlovia.org/LMD_nat/piccbi) just for fun?
+
 ## Give me a short summary of what happened.
 
 Body image researchers agree that an overly slender female body is internalized by young women as the most suitable shape (the thin ideal), via repeated exposure to media imagery but the cognitive process (or processes!) by which this internalization and normalization of thinness occurs is still uncertain. We asked around 400 young women to repeatedly judge whether or not a randomly computer-generated female body was overweight. By presenting thin bodies more often over time, we found that women’s conceptualization of thinness shifted in accordance with the prevalence of thin bodies. Put simply, a body of average weight was more likely to be judged as overweight when it was surrounded by thin bodies. Conversely, when the ratio of thin-to-overweight bodies were balanced, no such shift in concept occurred. These results suggest that women’s judgements of other women’s bodies are biased by an overrepresentation of thinness. 
