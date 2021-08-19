@@ -1,0 +1,31 @@
+Version 2	
+Parameter	Value
+Voxel detail	370
+Shell thickness	1
+Skin color	230/184/148
+Skin	Base MAT all MAPS C
+Boxer Lighting Model	Matte
+Arms Up-Down	-55
+Legs spread	-2
+Left Hand Chop	40
+Left Hand Grasp	50
+Left Hand Spread	20
+Right Hand Chop	40
+Right Hand Grasp	50
+Right Hand Spread	20
+	
+Version 1	
+Parameter	Value
+Voxel detail	380
+Shell thickness	1
+Skin color	230/184/148
+Skin	Base MAT all MAPS C
+Boxer Lighting Model	Matte
+Arms Up-Down	-55
+Legs spread	-2
+Left Hand Chop	40
+Left Hand Grasp	50
+Left Hand Spread	20
+Right Hand Chop	40
+Right Hand Grasp	50
+Right Hand Spread	20
