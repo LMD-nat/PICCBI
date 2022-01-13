@@ -1,5 +1,5 @@
 # PICCBI
-Devine, S., Germain, N., Ehrlich, S. &amp; Eppinger, B. (under review). Changes in the prevalence of thin bodies biases young women's judgements about body size
+Devine, S., Germain, N., Ehrlich, S. &amp; Eppinger, B. (in press in Psychological Science). Changes in the prevalence of thin bodies biases young women's judgements about body size
 
 ## What's in this repository?
 
